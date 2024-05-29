@@ -9684,7 +9684,7 @@ pre {
 }
 
 .header-holder {
-  height: 68px;
+  height: 0;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -9704,7 +9704,7 @@ pre {
 }
 @media screen and (min-width: 1200px) {
   .header-holder {
-    height: 90px;
+    height: 0;
   }
 }
 
@@ -10031,16 +10031,10 @@ pre {
 .docs-tutorials-resources {
   background-color: #262626;
   color: #ffffff;
-  padding-top: 2.5rem;
-  padding-bottom: 2.5rem;
+  padding-top: 0;
+  padding-bottom: 0;
   position: relative;
   z-index: 201;
-}
-@media screen and (min-width: 768px) {
-  .docs-tutorials-resources {
-    padding-top: 5rem;
-    padding-bottom: 5rem;
-  }
 }
 .docs-tutorials-resources p {
   color: #929292;
