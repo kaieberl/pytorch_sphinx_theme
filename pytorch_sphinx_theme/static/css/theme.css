@@ -10297,7 +10297,7 @@ article.pytorch-article hr {
 article.pytorch-article blockquote {
   margin: 0 auto;
   margin-bottom: 2.5rem;
-  width: 65%;
+  width: 95%;
 }
 article.pytorch-article img {
   width: 100%;
@@ -11219,7 +11219,7 @@ img.previous-page {
 }
 
 article.pytorch-article blockquote {
-  margin-left: 3.75rem;
+  margin-left: 0.75rem;
   color: #6c6c6d;
 }
 
@@ -11678,7 +11678,7 @@ article.pytorch-article .tutorials-callout-container .btn.callout-button a {
 }
 @media screen and (min-width: 1200px) {
   .pytorch-container {
-    margin-left: 25%;
+    margin-left: 20%;
   }
 }
 @media screen and (min-width: 1600px) {
